@@ -1,0 +1,17 @@
+Usos dos gits
+
+git pull 
+
+atualiza o código para evitar conflitos
+
+git add .
+
+adciona o código no repositorio
+
+git commit -m "Mensagem"
+
+Salva no repositorio
+
+git push
+
+salva e envie no repositorio para e para todos verem.
